@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information.
-Console.WriteLine("Hi, this change is reflected in one minute!!");
+Console.WriteLine("Hello, let's see the power of DevOps!!");
